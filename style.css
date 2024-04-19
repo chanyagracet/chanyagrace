@@ -140,6 +140,16 @@ img {
     font-weight: 500;
 }
 
+#resume_link {
+    color: black;
+    font-weight: 500;
+}
+
+#resume_link:hover {
+    color: rgb(170, 39, 39);
+    font-weight: 500;
+}
+
 
 #art-desc {
     font-size: 18px;
@@ -195,6 +205,18 @@ a:active {
     color: rgb(121, 8, 8);
     padding-top: -10px;
 }
-#resume:visited {
-    color: rgb(121, 8, 8); /* Maintain color after visited */
+
+#resume:hover {
+    font-weight: 500;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding-top: -10px;
 }
+#resume:visited {
+    color: rgb(121, 8, 8); 
+}
+
+.center {
+    text-align: center;
+  }
+
