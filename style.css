@@ -134,6 +134,13 @@ img {
     font-weight: 500;
 }
 
+#link:hover {
+    text-align: center;
+    color: rgb(170, 39, 39);
+    font-weight: 500;
+}
+
+
 #art-desc {
     font-size: 18px;
     text-align: center;
